@@ -11,7 +11,7 @@ Finora is a modern **Flutter** app with a glassmorphism UI. Track income & expen
 ### Home / Analytics / Wallet
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2918b1d2-121f-4fd2-b551-d1f9c98b0deb" width="220" />
+  <img src="https://github.com/user-attachments/assets/8fdc7596-b10b-4ee3-b96d-488e5970df39" width="220" />
   <img src="https://github.com/user-attachments/assets/2918b1d2-121f-4fd2-b551-d1f9c98b0deb" width="220" />
   <img src="https://github.com/user-attachments/assets/d988aa6b-eca9-4762-ae3b-04f3151b23c8" width="220" />
 </p>
@@ -26,9 +26,10 @@ Finora is a modern **Flutter** app with a glassmorphism UI. Track income & expen
 
 ### Add & Edit Transaction
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7b85e4f-5e47-45af-8924-e64af06203cb" width="300" />
-  <img src="https://github.com/user-attachments/assets/8b80c6a3-e157-4176-add9-c8ae7c348ebb" width="300" />
+  <img src="https://github.com/user-attachments/assets/cd03e5b8-7ea3-4c3c-84fb-06e3154e4bc7" width="300" />
+  <img src="https://github.com/user-attachments/assets/d6001a43-993f-4a6e-b33e-fddae2cb7fc5" width="300" />
 </p>
 
 <p align="center">
