@@ -27,7 +27,7 @@ Finora is a modern **Flutter** app with a glassmorphism UI. Track income & expen
 ### Add & Edit Transaction
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/87fa8cca-1d77-405a-816d-049280bd60b7" width="300" />
+  <img src="https://github.com/user-attachments/assets/c7b85e4f-5e47-45af-8924-e64af06203cb" width="300" />
   <img src="https://github.com/user-attachments/assets/8b80c6a3-e157-4176-add9-c8ae7c348ebb" width="300" />
 </p>
 
@@ -55,7 +55,7 @@ Finora is a modern **Flutter** app with a glassmorphism UI. Track income & expen
 
 ---
 
-## ✨ Features (short)
+## ✨ Features
 - Track income & expenses  
 - Edit / delete transactions  
 - Category analytics (pie)  
