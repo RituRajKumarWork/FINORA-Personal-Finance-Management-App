@@ -1,108 +1,69 @@
-# Finora 💰
+# Finora 💰  
+*A Flutter-based Personal Finance Management App*
 
-Finora is a modern **Flutter-based personal finance management app** with a clean glassmorphism UI.  
-It helps users track income and expenses, analyze spending, manage wallets, edit transactions, switch themes, and export data as CSV.
-
----
-## 📱 Application Screens
-
-### 🏠 Home Screen
-Displays total balance, income, expenses, net savings, and category-wise spending using pie charts.  
-Recent transactions are shown with quick edit access, and a floating action button enables fast transaction entry.
-
-<img width="317" height="688" alt="image" src="https://github.com/user-attachments/assets/f5b23196-1ac1-460f-ae3d-162839d3406d" width="50%"/>
-
-**Home Screen**
+Finora is a modern **Flutter** app with a glassmorphism UI. Track income & expenses, view analytics, edit transactions, export CSV, switch currency and theme.
 
 ---
 
-### ➕ Add Transaction Screen
-Allows users to add income or expense entries by entering title, amount, category, transaction type, and date.  
-Implemented using a bottom-sheet for smooth user experience.
 
-**Fig. 2: Add Transaction Screen**
+## 📱 Screens
 
----
+### Home / Analytics / Wallet
 
-### ✏️ Edit Transaction Screen
-Users can edit or delete existing transactions.  
-Supports updating amount, category, date, and income/expense type.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2918b1d2-121f-4fd2-b551-d1f9c98b0deb" width="220" />
+  <img src="https://github.com/user-attachments/assets/2918b1d2-121f-4fd2-b551-d1f9c98b0deb" width="220" />
+  <img src="https://github.com/user-attachments/assets/d988aa6b-eca9-4762-ae3b-04f3151b23c8" width="220" />
+</p>
 
-**Fig. 3: Edit Transaction Screen**
-
----
-
-### 💼 Wallet Screen
-Displays wallet-wise balance information such as cash and bank accounts in a clean card layout.
-
-**Fig. 4: Wallet Screen**
+<p align="center">
+  <sub>Fig 1: Home Screen</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Fig 2: Analytics Screen</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Fig 3: Wallet Screen</sub>
+</p>
 
 ---
 
-### 📊 Analytics Screen
-Provides category-wise expense analysis using pie charts, helping users understand spending behavior.
+### Add & Edit Transaction
 
-**Fig. 5: Analytics Screen**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87fa8cca-1d77-405a-816d-049280bd60b7" width="300" />
+  <img src="https://github.com/user-attachments/assets/8b80c6a3-e157-4176-add9-c8ae7c348ebb" width="300" />
+</p>
 
----
-
-### ⚙️ Settings Screen
-Allows customization options such as:
-- Currency selection (USD, INR, EUR, etc.)
-- Dark / Light theme toggle
-- Exporting transaction data
-- Viewing application details
-
-**Fig. 6: Settings Screen**
+<p align="center">
+  <sub>Fig 1: Add Transaction</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Fig 2: Edit Transaction</sub>
+</p>
 
 ---
 
-### 🌗 Theme Switching
-Supports both Dark and Light modes for better accessibility and user preference.
+### Settings / Theme / Export
 
-**Fig. 7: View Mode Switch (Dark / Light)**
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3f1178b-77f2-4bc8-b483-fc1614dc2a47" width="220" />
+  <img src="https://github.com/user-attachments/assets/70c74921-4864-4083-a1c1-b33f1782e42a" width="220" />
+  <img src="https://github.com/user-attachments/assets/f887c97d-24c8-454f-ab10-c666db65fb59" width="220" />
+</p>
 
-### 📤 Export Data (CSV)
-Users can export all transactions in CSV format.  
-The generated data can be copied and saved for external use such as spreadsheets.
-
-**Fig. 8: Download Data Screen**
-
----
-
-## ✨ Features
-
-- 📊 Track income & expenses
-- ✏️ Edit and delete transactions
-- 🗂 Category-wise spending analytics (pie charts)
-- 💾 Export transactions as CSV
-- 🌗 Dark / Light theme toggle
-- 💼 Wallet overview
-- 📱 Responsive UI (mobile, tablet, web)
-- 🎨 Glassmorphism design
+<p align="center">
+  <sub>Fig 1: Settings</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Fig 2: Dark / Light Mode</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Fig 3: Export CSV</sub>
+</p>
 
 ---
 
-## 🛠 Tech Stack
-
-- **Flutter**
-- **Dart**
-- **Material 3**
-- **fl_chart** (charts & analytics)
-- **google_fonts**
+## ✨ Features (short)
+- Track income & expenses  
+- Edit / delete transactions  
+- Category analytics (pie)  
+- Wallets overview  
+- Currency switch (USD, INR, EUR, GBP, JPY)  
+- CSV export (copy to clipboard)  
+- Dark / Light themes  
+- Responsive (mobile & web)
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK installed  
-- Android Studio / VS Code  
-- Emulator or physical device  
-
-Check Flutter installation:
-```bash
-flutter doctor
 
